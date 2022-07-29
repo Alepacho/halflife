@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2002, Valve LLC, All rights reserved. ============
+//========= Copyright Â© 1996-2002, Valve LLC, All rights reserved. ============
 //
 // Purpose: 
 //
@@ -9,7 +9,7 @@
 // NOTE: must include quakedef.h first
 
 #ifndef _CAMERA_H_
-#define _CAMEA_H_
+#define _CAMERA_H_
 
 // pitch, yaw, dist
 extern vec3_t cam_ofs;
